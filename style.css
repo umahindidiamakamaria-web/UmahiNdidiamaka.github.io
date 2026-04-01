@@ -49,6 +49,10 @@ nav li {
     padding: 100px 20px;
 }
 
+.hero p {
+    max-width: 600px;
+    margin: 0 auto;
+}
 .profile {
     width: 120px;
     border-radius: 50%;
